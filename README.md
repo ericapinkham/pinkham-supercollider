@@ -55,5 +55,5 @@ A spot for Pinkhams to work on Supercollider stuff!
     - Open `src\main.py` in the editor and click `run` at the top middle of your screen.
     - `src\main.py` is a slightly modifed version of what I found here https://supriya-project.github.io/supriya/index.html
 
-# Next Steps
+## Next Steps
 Based on what I've seen so far, we probably want to build "=", like the "play_chord" function I wrote that just get the effects we want and make the whole deal simpler. Or find what other people have done and use that. We'd customize them to meet the needs of whatever you want to do.
