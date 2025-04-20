@@ -1,0 +1,15 @@
+[project]
+name = "pinkham-supercollider"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cowsay>=6.1",
+    "pydantic>=2.11.3",
+    "pytest>=8.3.5",
+    "supriya>=25.3b2",
+]
+
+[tool.ruff]
+line-length=120
