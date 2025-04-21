@@ -11,7 +11,7 @@ A spot for Pinkhams to work on Supercollider stuff!
         - Choose a cool theme (optional): [Catpuccin](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc) and [Catpuccin Icons](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc-icons) is what I'm using right now, but there are loads of cool ones, [Tokyo Midnight](https://marketplace.visualstudio.com/items/?itemName=nacholaciar.tokyo-midnight) is another fav.
         - [Python](https://marketplace.visualstudio.com/items/?itemName=ms-python.python)
         - [Ruff](https://marketplace.visualstudio.com/items/?itemName=charliermarsh.ruff)
-            - I guess ***technically*** optional, but I highly recommend. Having these settings enabled makes collaboration much better. Add the following settings, press `ctrl + ,`
+            - I guess ***technically*** optional, but I highly recommend. Having these settings enabled makes collaboration much better. Add the following settings, press `ctrl + ,` or click the links (which only work if you are looking at this in vs code)
             - [files.insertFinalNewline](vscode://settings/files.insertFinalNewline)
             - [editor.formatOnSave](vscode://settings/editor.formatOnSave), click it
             - [editor.codeActionsOnSAve](vscode://settings/editor.codeActionsOnSave)
