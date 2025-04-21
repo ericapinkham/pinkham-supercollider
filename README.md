@@ -8,7 +8,7 @@ A spot for Pinkhams to work on Supercollider stuff!
 - Download and install [VS Code](https://code.visualstudio.com/)
     - A good and free general purpose IDE
     - Install Extensions (left hand side there is an extension button, or click the links to install from browser):
-        - Choose a cool theme (optional): [Catpuccin](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc) and [Catpuccin Icons](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc-icons) is what I'm using right now, but there are loads of cool ones, (Tokyo Midnight)[https://marketplace.visualstudio.com/items/?itemName=nacholaciar.tokyo-midnight] is another fav.
+        - Choose a cool theme (optional): [Catpuccin](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc) and [Catpuccin Icons](https://marketplace.visualstudio.com/items/?itemName=Catppuccin.catppuccin-vsc-icons) is what I'm using right now, but there are loads of cool ones, [Tokyo Midnight](https://marketplace.visualstudio.com/items/?itemName=nacholaciar.tokyo-midnight) is another fav.
         - [Python](https://marketplace.visualstudio.com/items/?itemName=ms-python.python)
         - [Ruff](https://marketplace.visualstudio.com/items/?itemName=charliermarsh.ruff)
             - I guess ***technically*** optional, but I highly recommend. Having these settings enabled makes collaboration much better. Add the following settings, press `ctrl + ,`
