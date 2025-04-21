@@ -43,6 +43,10 @@ A spot for Pinkhams to work on Supercollider stuff!
     - Install git for windows, download and run the [file from here](https://git-scm.com/downloads/win).
 - Restart your computer
     - UV and GIT added stuff that needs a restart to take effect
+- Set global git config settings:
+    - in the terminal again run:
+        - ```git config --global user.name "Your name!"```
+        - ```git config --global user.email "your email"``` (your github account email)
 - Clone the github repository (in vs code):
     - On the left hand side there's a source control button, click that, then `clone repository`
     - Enter this `https://github.com/ericapinkham/pinkham-supercollider.git`
